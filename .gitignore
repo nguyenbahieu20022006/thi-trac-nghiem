@@ -1,0 +1,7 @@
+*.bak
+*.mdf
+*.ldf
+.vs/
+.vscode/
+*.user
+Thumbs.db
